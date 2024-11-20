@@ -4,7 +4,7 @@
 - [Fractal Tree](./FractalTree)
 - [Doraemon DFT](./doraemonDFT)
 - [Lorentz Attractor](./lorentzAttractor)
-- [Mandel brot](./Mandelbrot)
+- [Mandel brot](./mandelbrot)
 - [Points](./points)
 - [Pythagorean Tree](./pythagoreanTree)
 - [Stars](./stars)
